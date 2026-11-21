@@ -1,4 +1,4 @@
-# Customer Lifetime Value (CLV) Prediction — Online Retail
+# Customer Lifetime Value (CLV) Prediction & Customer Segmentation
 
 Predicting 6-month forward customer revenue from behavioral purchase history, built as a full end-to-end data science pipeline: leakage-safe modeling, a modular tested codebase, an interactive Streamlit app, and a Power BI dashboard — all kept consistent through a single shared configuration.
 
